@@ -1,0 +1,190 @@
+<manifest alg="2" build="2017.0.2.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="usmlibrary1.com" resolutions="1x" timestamp="1496848919431">
+  <folder name="css">
+    <file name="site_global.css" crc="443350757"/>
+    <file name="index.css" crc="130480869" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="phone>index:phone>floor-level:phone>floor-1:phone>rak-buku:phone>kaunter-maklumat:phone>tempat-duduk:phone>floor-2:phone>bilik-rehat:phone>rak-buku-hijau:phone>rak-buku-hijau-2:phone>bilik-kural:phone>floor-3:phone>quiet-zon:phone>locker:phone>rak-buku-3:phone>bilik2:index"/>
+    <file name="museutils.js" crc="4232573551" ref="phone>index:phone>floor-level:phone>floor-1:phone>rak-buku:phone>kaunter-maklumat:phone>tempat-duduk:phone>floor-2:phone>bilik-rehat:phone>rak-buku-hijau:phone>rak-buku-hijau-2:phone>bilik-kural:phone>floor-3:phone>quiet-zon:phone>locker:phone>rak-buku-3:phone>bilik2:index"/>
+    <file name="whatinput.js" crc="86476730" ref="phone>index:phone>floor-level:phone>floor-1:phone>rak-buku:phone>kaunter-maklumat:phone>tempat-duduk:phone>floor-2:phone>bilik-rehat:phone>rak-buku-hijau:phone>rak-buku-hijau-2:phone>bilik-kural:phone>floor-3:phone>quiet-zon:phone>locker:phone>rak-buku-3:phone>bilik2:index"/>
+    <file name="museconfig.js" crc="4152223963" ref="phone>index:phone>floor-level:phone>floor-1:phone>rak-buku:phone>kaunter-maklumat:phone>tempat-duduk:phone>floor-2:phone>bilik-rehat:phone>rak-buku-hijau:phone>rak-buku-hijau-2:phone>bilik-kural:phone>floor-3:phone>quiet-zon:phone>locker:phone>rak-buku-3:phone>bilik2:index"/>
+    <file name="jquery.watch.js" crc="3844535323" ref="phone>index:phone>floor-level:phone>floor-1:phone>rak-buku:phone>kaunter-maklumat:phone>tempat-duduk:phone>floor-2:phone>bilik-rehat:phone>rak-buku-hijau:phone>rak-buku-hijau-2:phone>bilik-kural:phone>floor-3:phone>quiet-zon:phone>locker:phone>rak-buku-3:phone>bilik2:index"/>
+    <file name="require.js" crc="4234670167" ref="phone>index:phone>floor-level:phone>floor-1:phone>rak-buku:phone>kaunter-maklumat:phone>tempat-duduk:phone>floor-2:phone>bilik-rehat:phone>rak-buku-hijau:phone>rak-buku-hijau-2:phone>bilik-kural:phone>floor-3:phone>quiet-zon:phone>locker:phone>rak-buku-3:phone>bilik2:index"/>
+  </folder>
+  <folder name="images">
+    <file name="whatsapp image 2017-05-19 at 125001 pm (4).jpg" crc="530867051" seo="true" ref="phone>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="usm map.png" crc="226890720" seo="true" ref="phone>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="kotak pink.png" crc="4253090219" seo="true" ref="phone>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u142-4.png" crc="4169470820" ref="phone>floor-level"/>
+    <file name="u144-4.png" crc="348583350" ref="phone>floor-level"/>
+    <file name="u143-4.png" crc="3777188188" ref="phone>floor-level"/>
+    <file name="back (1).png" crc="286094392" seo="true" ref="phone>floor-level:phone>floor-1:phone>rak-buku:phone>kaunter-maklumat:phone>tempat-duduk:phone>floor-2:phone>bilik-rehat:phone>rak-buku-hijau:phone>rak-buku-hijau-2:phone>bilik-kural:phone>floor-3:phone>quiet-zon:phone>locker:phone>rak-buku-3:phone>bilik2">
+      <caption webpage="tempat-duduk" alt=""/>
+      <caption webpage="floor-level" alt=""/>
+      <caption webpage="rak-buku-hijau-2" alt=""/>
+      <caption webpage="rak-buku-3" alt=""/>
+      <caption webpage="kaunter-maklumat" alt=""/>
+      <caption webpage="quiet-zon" alt=""/>
+      <caption webpage="floor-3" alt=""/>
+      <caption webpage="floor-2" alt=""/>
+      <caption webpage="rak-buku-hijau" alt=""/>
+      <caption webpage="bilik-rehat" alt=""/>
+      <caption webpage="bilik-kural" alt=""/>
+      <caption webpage="bilik2" alt=""/>
+      <caption webpage="locker" alt=""/>
+      <caption webpage="rak-buku" alt=""/>
+      <caption webpage="floor-1" alt=""/>
+    </file>
+    <file name="home.png" crc="474119835" seo="true" ref="phone>floor-level:phone>floor-1:phone>rak-buku:phone>kaunter-maklumat:phone>tempat-duduk:phone>floor-2:phone>bilik-rehat:phone>rak-buku-hijau:phone>rak-buku-hijau-2:phone>bilik-kural:phone>floor-3:phone>quiet-zon:phone>locker:phone>rak-buku-3:phone>bilik2">
+      <caption webpage="tempat-duduk" alt=""/>
+      <caption webpage="floor-level" alt=""/>
+      <caption webpage="rak-buku-hijau-2" alt=""/>
+      <caption webpage="rak-buku-3" alt=""/>
+      <caption webpage="kaunter-maklumat" alt=""/>
+      <caption webpage="quiet-zon" alt=""/>
+      <caption webpage="floor-3" alt=""/>
+      <caption webpage="floor-2" alt=""/>
+      <caption webpage="rak-buku-hijau" alt=""/>
+      <caption webpage="bilik-rehat" alt=""/>
+      <caption webpage="bilik-kural" alt=""/>
+      <caption webpage="bilik2" alt=""/>
+      <caption webpage="locker" alt=""/>
+      <caption webpage="rak-buku" alt=""/>
+      <caption webpage="floor-1" alt=""/>
+    </file>
+    <file name="next (1).png" crc="4179015454" seo="true" ref="phone>floor-level:phone>floor-1:phone>floor-2">
+      <caption webpage="floor-level" alt=""/>
+      <caption webpage="floor-1" alt=""/>
+      <caption webpage="floor-2" alt=""/>
+    </file>
+    <file name="u428-4.png" crc="62361756" ref="phone>floor-1"/>
+    <file name="maps-and-flags.png" crc="3799647779" seo="true" ref="phone>floor-1:phone>floor-2:phone>floor-3">
+      <caption webpage="floor-3" alt=""/>
+      <caption webpage="floor-3" alt=""/>
+      <caption webpage="floor-3" alt=""/>
+      <caption webpage="floor-3" alt=""/>
+      <caption webpage="floor-1" alt=""/>
+      <caption webpage="floor-1" alt=""/>
+      <caption webpage="floor-1" alt=""/>
+      <caption webpage="floor-2" alt=""/>
+      <caption webpage="floor-2" alt=""/>
+      <caption webpage="floor-2" alt=""/>
+      <caption webpage="floor-2" alt=""/>
+    </file>
+    <file name="u476-4.png" crc="178555812" ref="phone>rak-buku"/>
+    <file name="u279-4.png" crc="3805551732" ref="phone>rak-buku"/>
+    <file name="u289-4.png" crc="450071164" ref="phone>rak-buku"/>
+    <file name="u288-4.png" crc="3923409404" ref="phone>rak-buku"/>
+    <file name="u294-4.png" crc="374544482" ref="phone>rak-buku"/>
+    <file name="u293-4.png" crc="4265307698" ref="phone>rak-buku"/>
+    <file name="u287-4.png" crc="54165347" ref="phone>rak-buku"/>
+    <file name="u292-4.png" crc="240168023" ref="phone>rak-buku"/>
+    <file name="u285-4.png" crc="4252633159" ref="phone>rak-buku"/>
+    <file name="u291-4.png" crc="122424797" ref="phone>rak-buku"/>
+    <file name="u284-4.png" crc="3911367824" ref="phone>rak-buku"/>
+    <file name="u290-4.png" crc="266076208" ref="phone>rak-buku"/>
+    <file name="u282-4.png" crc="263159353" ref="phone>rak-buku"/>
+    <file name="u286-4.png" crc="321531728" ref="phone>rak-buku"/>
+    <file name="u331-4.png" crc="184604153" ref="phone>kaunter-maklumat"/>
+    <file name="whatsapp image 2017-05-19 at 124323 pm (6)-crop-u325.jpg" crc="3959946807" seo="true" ref="phone>kaunter-maklumat">
+      <caption webpage="kaunter-maklumat" alt=""/>
+    </file>
+    <file name="u352-4.png" crc="362440419" ref="phone>tempat-duduk"/>
+    <file name="whatsapp image 2017-05-19 at 124323 pm (1).jpg" crc="4263926036" seo="true" ref="phone>tempat-duduk">
+      <caption webpage="tempat-duduk" alt=""/>
+    </file>
+    <file name="u427-4.png" crc="136519823" ref="phone>floor-2"/>
+    <file name="u426-4.png" crc="536399137" ref="phone>bilik-rehat"/>
+    <file name="whatsapp image 2017-05-19 at 31412 pm.jpg" crc="4154275205" seo="true" ref="phone>bilik-rehat">
+      <caption webpage="bilik-rehat" alt=""/>
+    </file>
+    <file name="u477-4.png" crc="4212050131" ref="phone>rak-buku-hijau"/>
+    <file name="u465-4.png" crc="303928905" ref="phone>rak-buku-hijau"/>
+    <file name="u464-4.png" crc="4260568671" ref="phone>rak-buku-hijau"/>
+    <file name="u470-4.png" crc="71800363" ref="phone>rak-buku-hijau"/>
+    <file name="u469-4.png" crc="247625961" ref="phone>rak-buku-hijau"/>
+    <file name="u463-4.png" crc="4283940283" ref="phone>rak-buku-hijau"/>
+    <file name="u468-4.png" crc="213806398" ref="phone>rak-buku-hijau"/>
+    <file name="u461-4.png" crc="3957535892" ref="phone>rak-buku-hijau"/>
+    <file name="u467-4.png" crc="499267580" ref="phone>rak-buku-hijau"/>
+    <file name="u460-4.png" crc="474443712" ref="phone>rak-buku-hijau"/>
+    <file name="u466-4.png" crc="289445248" ref="phone>rak-buku-hijau"/>
+    <file name="u459-4.png" crc="4037985114" ref="phone>rak-buku-hijau"/>
+    <file name="u462-4.png" crc="391584490" ref="phone>rak-buku-hijau"/>
+    <file name="u475-4.png" crc="203585422" ref="phone>rak-buku-hijau"/>
+    <file name="u498-4.png" crc="4212050131" ref="phone>rak-buku-hijau-2"/>
+    <file name="whatsapp image 2017-05-19 at 124139 pm (6).jpg" crc="3960173537" seo="true" ref="phone>rak-buku-hijau-2">
+      <caption webpage="rak-buku-hijau-2" alt=""/>
+    </file>
+    <file name="u519-4.png" crc="4164539918" ref="phone>bilik-kural"/>
+    <file name="whatsapp image 2017-05-19 at 124139 pm (5)-crop-u513.jpg" crc="111569767" seo="true" ref="phone>bilik-kural">
+      <caption webpage="bilik-kural" alt=""/>
+    </file>
+    <file name="u550-4.png" crc="3832193161" ref="phone>floor-3"/>
+    <file name="wc.png" crc="56477907" seo="true" ref="phone>floor-3">
+      <caption webpage="floor-3" alt=""/>
+    </file>
+    <file name="u600-4.png" crc="4284692620" ref="phone>quiet-zon"/>
+    <file name="whatsapp image 2017-05-19 at 30856 pm-crop-u594.jpg" crc="316340785" seo="true" ref="phone>quiet-zon">
+      <caption webpage="quiet-zon" alt=""/>
+    </file>
+    <file name="u621-4.png" crc="125237153" ref="phone>locker"/>
+    <file name="whatsapp image 2017-05-19 at 124139 pm-crop-u615.jpg" crc="3967047676" seo="true" ref="phone>locker">
+      <caption webpage="locker" alt=""/>
+    </file>
+    <file name="u645-4.png" crc="4162539269" ref="phone>rak-buku-3"/>
+    <file name="whatsapp image 2017-05-19 at 124139 pm (1)-crop-u639.jpg" crc="346206723" seo="true" ref="phone>rak-buku-3">
+      <caption webpage="rak-buku-3" alt=""/>
+    </file>
+    <file name="u658-4.png" crc="4162539269" ref="phone>bilik2"/>
+    <file name="whatsapp image 2017-05-19 at 124139 pm (3)-crop-u661.jpg" crc="3813956209" seo="true" ref="phone>bilik2">
+      <caption webpage="bilik2" alt=""/>
+    </file>
+  </folder>
+  <folder name="phone">
+    <folder name="css">
+      <file name="floor-3.css" crc="269015693" ref="phone>floor-3"/>
+      <file name="floor-2.css" crc="105630893" ref="phone>floor-2"/>
+      <file name="rak-buku.css" crc="4076917689" ref="phone>rak-buku"/>
+      <file name="index.css" crc="4046842342" ref="phone>index"/>
+      <file name="locker.css" crc="295367924" ref="phone>locker"/>
+      <file name="rak-buku-hijau.css" crc="341273968" ref="phone>rak-buku-hijau"/>
+      <file name="quiet-zon.css" crc="27252983" ref="phone>quiet-zon"/>
+      <file name="rak-buku-3.css" crc="201569682" ref="phone>rak-buku-3"/>
+      <file name="rak-buku-hijau-2.css" crc="3852383257" ref="phone>rak-buku-hijau-2"/>
+      <file name="kaunter-maklumat.css" crc="4139895355" ref="phone>kaunter-maklumat"/>
+      <file name="bilik2.css" crc="299094621" ref="phone>bilik2"/>
+      <file name="tempat-duduk.css" crc="4147682655" ref="phone>tempat-duduk"/>
+      <file name="floor-1.css" crc="4020646826" ref="phone>floor-1"/>
+      <file name="bilik-rehat.css" crc="3768701936" ref="phone>bilik-rehat"/>
+      <file name="floor-level.css" crc="4183814030" ref="phone>floor-level"/>
+      <file name="bilik-kural.css" crc="302374389" ref="phone>bilik-kural"/>
+    </folder>
+    <file name="index.html" crc="4215278324" seo="true" mt="1496848831018" redirect="true"/>
+    <file name="floor-level.html" crc="3862274014" seo="true" mt="1495883351013" redirect="true"/>
+    <file name="floor-1.html" crc="73994079" seo="true" mt="1495883210901" redirect="true"/>
+    <file name="rak-buku.html" crc="4186493972" seo="true" mt="1495880866557" redirect="true"/>
+    <file name="kaunter-maklumat.html" crc="3869584381" seo="true" mt="1495879146950" redirect="true"/>
+    <file name="tempat-duduk.html" crc="4046015829" seo="true" mt="1495879371444" redirect="true"/>
+    <file name="floor-2.html" crc="18070452" seo="true" mt="1495882386301" redirect="true"/>
+    <file name="bilik-rehat.html" crc="310937767" seo="true" mt="1495880509586" redirect="true"/>
+    <file name="rak-buku-hijau.html" crc="4161816991" seo="true" mt="1495880979887" redirect="true"/>
+    <file name="rak-buku-hijau-2.html" crc="4037032051" seo="true" mt="1495881245079" redirect="true"/>
+    <file name="bilik-kural.html" crc="517541057" seo="true" mt="1495882346438" redirect="true"/>
+    <file name="floor-3.html" crc="398184438" seo="true" mt="1495883405795" redirect="true"/>
+    <file name="quiet-zon.html" crc="4118273281" seo="true" mt="1495884477778" redirect="true"/>
+    <file name="locker.html" crc="177860100" seo="true" mt="1495882680558" redirect="true"/>
+    <file name="rak-buku-3.html" crc="3924460509" seo="true" mt="1495882828529" redirect="true"/>
+    <file name="bilik2.html" crc="180610380" seo="true" mt="1495882997246" redirect="true"/>
+  </folder>
+  <file name="index.html" crc="3893227098" seo="true" mt="1496848809336" redirect="true"/>
+</manifest>
